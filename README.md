@@ -1,5 +1,10 @@
 # Rick & Morty API - Housy Host Test
 
+
+
+[Watch the demo video](https://github.com/user-attachments/assets/80921a04-a241-431e-962f-5f1a06406df9)
+
+
 ## Description
 
 The HH Rick and Morty Frontend is the web application built to interact with the backend API that manages characters from the popular Rick and Morty series. This application allows users to view, search, and manage character data with a sleek interface built using React and Material-UI. Users can import character data from the backend, synchronize updates manually, and enjoy a seamless experience through paginated tables and intuitive interactions.
